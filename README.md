@@ -6,7 +6,7 @@
 
 ## 📌 Visão Geral
 
-**Conta Junto** é uma aplicação web que permite a organização e divisão justa de contas entre pessoas que vivem na mesma casa. O sistema ajuda a registrar despesas, dividir valores (de forma igual ou personalizada), acompanhar pagamentos e manter a transparência nos gastos do grupo.
+**Debita ai** é uma aplicação web que permite a organização e divisão justa de contas entre pessoas que vivem na mesma casa. O sistema ajuda a registrar despesas, dividir valores (de forma igual ou personalizada), acompanhar pagamentos e manter a transparência nos gastos do grupo.
 
 Ideal para famílias, casais ou repúblicas que desejam evitar confusões com as finanças do lar.
 
@@ -21,7 +21,7 @@ Facilitar a organização de contas compartilhadas, promovendo clareza e colabor
 ## 👤 Personas
 
 - **Carla (32 anos)** – Casada, usa planilhas para controlar contas, mas quer algo mais intuitivo.
-- **Pedro (24 anos)** – Mora com amigos em república, precisa dividir tudo com clareza.
+- **Pedro (24 anos)** – Mora com amigos em uma casa, precisa dividir tudo com clareza.
 - **Dona Helena (59 anos)** – Mora com os filhos e quer uma forma simples de saber se está tudo certo.
 
 ---
